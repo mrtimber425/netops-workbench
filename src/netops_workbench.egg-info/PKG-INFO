@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: netops-workbench
+Version: 0.1.0
+Summary: Networking & Net-Sec desktop toolkit (wxPython GUI)
+Author: You
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: wxPython>=4.2.1
+Dynamic: license-file
